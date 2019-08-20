@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   
   <scm>
-    <developerConnection>scm:git:https://github.com/tnbaeta/trucks.git</developerConnection>>
+    <developerConnection>scm:git:https://github.com/tnbaeta/trucks.git</developerConnection>
   </scm>
 
   <dependencies>
