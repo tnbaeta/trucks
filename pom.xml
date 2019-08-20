@@ -10,7 +10,6 @@
   
   <scm>
     <developerConnection>scm:git:https://github.com/tnbaeta/trucks.git</developerConnection>
-    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
