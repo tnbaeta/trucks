@@ -18,18 +18,14 @@
 
   <distributionManagement>
     <repository>
-      <id>releases</id>
-      <name>Artifactory</name>
+      <id>Artifactory</id>
+      <name>releases</name>
       <url>http://192.168.0.157:8081/artifactory/releases/</url>
-      <username>admin</username>
-      <password>Aqswlpkomcnv1@</password>
     </repository>
     <snapshotRepository>
-    	<id>snapshots</id>
-      <name>Artifactory</name>
+    	<id>Artifactory</id>
+      <name>snapshots</name>
       <url>http://192.168.0.157:8081/artifactory/snapshots/</url>
-      <username>admin</username>
-      <password>Aqswlpkomcnv1@</password>
     </snapshotRepository>
   </distributionManagement>
 
